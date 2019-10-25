@@ -11,9 +11,10 @@ Semana da Computação da UFF - Rio das Ostras
  - IntelliJ IDEA
 
 # Participantes
-Cinthia Pessanha
-Phelipe Perboires
-Vinícius Saeta
+ - Cinthia Pessanha
+ - Phelipe Perboires
+ - Vinícius Saeta
+ - TODO - Aguardando a lista dos alunos
 
 
 # Retrospectiva
