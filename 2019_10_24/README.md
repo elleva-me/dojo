@@ -2,8 +2,8 @@
 Semana da Computação da UFF - Rio das Ostras 
 
 # Problemas
-JokenPo
-Quem Matou Dobby?
+ - JokenPo
+ - Quem Matou Dobby?
 
 # Tecnologias e Ferramentas
  - Java 1.8 
