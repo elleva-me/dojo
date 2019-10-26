@@ -46,8 +46,8 @@ programação
 - Conseguimos resolver o problema!!! \o/
 
 # Fotos
-| <img src="fotos/71403499_2565844256994991_2986667343641313280_o.jpg?raw=true" width="100"> | <img src="fotos/73308475_2565844503661633_5660439580965339136_o.jpg?raw=true" width="100"> | <img src="fotos/74417319_2565844603661623_7136990590767464448_o.jpg?raw=true" width="100"> |
-|---|---|---|
+| <img src="fotos/1.jpg?raw=true" width="100"> | <img src="fotos/2.jpg?raw=true" width="100"> | <img src="fotos/3.jpg?raw=true" width="100"> | <img src="fotos/4.jpg?raw=true" width="100"> | <img src="fotos/6.jpg?raw=true" width="100"> | <img src="fotos/7.jpg?raw=true" width="100"> | <img src="fotos/8.jpg?raw=true" width="100"> | <img src="fotos/11.jpg?raw=true" width="100"> | <img src="fotos/12.jpg?raw=true" width="100"> | <img src="fotos/13.jpg?raw=true" width="100"> | <img src="fotos/14.jpg?raw=true" width="100"> | <img src="fotos/18.jpg?raw=true" width="100"> | <img src="fotos/20.jpg?raw=true" width="100"> | <img src="fotos/21.jpg?raw=true" width="100"> |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 
 
