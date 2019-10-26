@@ -4,4 +4,4 @@ Repositório destinado a armazenar as sessões de Coding Dojo realizados pela eq
 
 Edição    | Data      | Local | Link
 --------- | ----------|------ |-------------
-#1        |24/10/2019| Universidade Federal Fluminense (Rio das Ostras)| [Veja como foi!](https://github.com/elleva-me/dojo/tree/master/2019_10_24)
+#1        |24/10/2019| UFF - Pólo Universitário de Rio das Ostras| [Veja como foi!](https://github.com/elleva-me/dojo/tree/master/2019_10_24)
