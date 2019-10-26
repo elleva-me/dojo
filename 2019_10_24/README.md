@@ -46,4 +46,12 @@ programação
 - Conseguimos resolver o problema!!! \o/
 
 # Fotos
+| <img src="fotos/71403499_2565844256994991_2986667343641313280_o.jpg?raw=true" width="100"> | <img src="fotos/73308475_2565844503661633_5660439580965339136_o.jpg?raw=true" width="100"> | <img src="fotos/74417319_2565844603661623_7136990590767464448_o.jpg?raw=true" width="100"> |
+|---|---|---|
+
+
+
+
+
+
 
