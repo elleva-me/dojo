@@ -25,7 +25,7 @@ Semana da Computação da UFF - Rio das Ostras
  - 	Jessica Beatriz de Carvalho Fernandes
  - 	Juliana Dias de Paula
  - 	Kassiano Vieira Malaquias
- - 	Luan Pereira Cunha
+ - 	Luan Pereira Cunha :computer:
  - 	Marianna da Fraga Fredenhagem Altomare Carreiro
  - 	Marina da Cruz Bento Bulhosa
  - 	Matheus Monclai das Chagas Pizziolo
@@ -36,7 +36,7 @@ Semana da Computação da UFF - Rio das Ostras
  - 	Ruan de Almeida Costa
  - 	Stevemberg Carvalho de Oliveira
  - 	Syro Almeida Gondim
- - 	Tamara Dias de Carvalho
+ - 	Tamara Dias de Carvalho :raising_hand: :computer:
  - 	Victor Felix de Almeida
  - 	Vinícius Saeta
 
