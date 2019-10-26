@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/elleva-me/dojo/blob/master/img/dojo-cover.png?raw=true)
 
-Repositório destinado a armazenar as sessões de Coding Dojo realizados pela equipe da elleva.
+> Repositório destinado a armazenar as sessões de Coding Dojo realizados pela equipe da elleva.
 
 Edição    | Data      | Local | Link
 --------- | ----------|------ |-------------
