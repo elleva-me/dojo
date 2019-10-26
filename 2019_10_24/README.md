@@ -15,30 +15,30 @@ Semana da Computação da UFF - Rio das Ostras
  - IntelliJ IDEA
 
 # Participantes
- - Cinthia Pessanha
- - Phelipe Perboires
- - Vinícius Saeta
- - Stevemberg Carvalho de Oliveira
- - Caio Vinicius Almeida Nascimento 
- - Victor Felix de Almeida 
- - Marina da Cruz Bento Bulhosa 
- - Rafael de Azevedo Silva 
- - Tamara Dias de Carvalho 
- - Ruan de Almeida Costa 
- - Luan Pereira Cunha 
- - Rodolpho Vianna Santoro 
- - Gabriel dos Santos Ribeiro 
- - Fernando Soares Stefanino 
- - Arielle Cardoso Costa da Silva 
- - Kassiano Vieira Malaquias 
- - Alessandro Sampaio da Silva 
- - Juliana Dias de Paula 
- - Otavio de Souza Braga 
- - Matheus Monclai das Chagas Pizziolo
- - Amanda Bretas Gonçalves 
- - Marianna da Fraga Fredenhagem Altomare Carreiro 
- - Jessica Beatriz de Carvalho Fernandes 
- - Syro Almeida Gondim 
+ - 	Alessandro Sampaio da Silva
+ - 	Amanda Bretas Gonçalves
+ - 	Arielle Cardoso Costa da Silva
+ - 	Caio Vinicius Almeida Nascimento
+ - 	Cinthia Pessanha
+ - 	Fernando Soares Stefanino
+ - 	Gabriel dos Santos Ribeiro
+ - 	Jessica Beatriz de Carvalho Fernandes
+ - 	Juliana Dias de Paula
+ - 	Kassiano Vieira Malaquias
+ - 	Luan Pereira Cunha
+ - 	Marianna da Fraga Fredenhagem Altomare Carreiro
+ - 	Marina da Cruz Bento Bulhosa
+ - 	Matheus Monclai das Chagas Pizziolo
+ - 	Otavio de Souza Braga
+ - 	Phelipe Perboires
+ - 	Rafael de Azevedo Silva
+ - 	Rodolpho Vianna Santoro
+ - 	Ruan de Almeida Costa
+ - 	Stevemberg Carvalho de Oliveira
+ - 	Syro Almeida Gondim
+ - 	Tamara Dias de Carvalho
+ - 	Victor Felix de Almeida
+ - 	Vinícius Saeta
 
 # Retrospectiva
 ## =(
