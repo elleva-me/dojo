@@ -31,14 +31,22 @@ Semana da Computação da UFF - Rio das Ostras
  - 	Matheus Monclai das Chagas Pizziolo
  - 	Otavio de Souza Braga
  - 	Phelipe Perboires
- - 	Rafael de Azevedo Silva
- - 	Rodolpho Vianna Santoro
- - 	Ruan de Almeida Costa
+ - 	Rafael de Azevedo Silva :computer:
+ - 	Rodolpho Vianna Santoro :computer:
+ - 	Ruan de Almeida Costa :computer:
  - 	Stevemberg Carvalho de Oliveira
  - 	Syro Almeida Gondim
- - 	Tamara Dias de Carvalho :raising_hand: :computer:
+ - 	Tamara Dias de Carvalho :raised_hand: :computer:
  - 	Victor Felix de Almeida
  - 	Vinícius Saeta
+ 
+ 
+## Legenda 
+
+| Começou  | Pilotou  |
+| ------------ | ------------ |
+| :raised_hand: | :computer: |
+
 
 # Retrospectiva
 ## =(
