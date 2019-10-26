@@ -2,7 +2,6 @@
 Semana da Computação da UFF - Rio das Ostras 
 
 # Problemas
- - JokenPo
  - Quem Matou Dobby?
 
 # Tecnologias e Ferramentas
