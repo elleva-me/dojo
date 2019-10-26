@@ -1,8 +1,11 @@
 # Local
 Semana da Computação da UFF - Rio das Ostras 
 
+# Apresentação
+ - Clique [aqui](apresentacao/apresentacao.pdf?raw=true) para baixar.
+
 # Problemas
- - Quem Matou Dobby?
+ - Quem Matou Dobby? 
 
 # Tecnologias e Ferramentas
  - Java 8 
