@@ -1,7 +1,7 @@
 ![alt text](https://github.com/elleva-me/dojo/blob/master/img/dojo-header.png?raw=true)
 
 # Local
-Semana da Computação da UFF - Rio das Ostras 
+Semana da Computação da UFF - Pólo Universitário de Rio das Ostras
 
 # Apresentação
  - Clique [aqui](apresentacao/apresentacao.pdf?raw=true) para baixar.
