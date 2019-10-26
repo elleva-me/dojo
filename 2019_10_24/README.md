@@ -1,3 +1,5 @@
+![alt text](https://github.com/elleva-me/dojo/blob/master/img/dojo-header.png?raw=true)
+
 # Local
 Semana da Computação da UFF - Rio das Ostras 
 
@@ -16,8 +18,27 @@ Semana da Computação da UFF - Rio das Ostras
  - Cinthia Pessanha
  - Phelipe Perboires
  - Vinícius Saeta
- - TODO - Aguardando a lista dos alunos
-
+ - Stevemberg Carvalho de Oliveira
+ - Caio Vinicius Almeida Nascimento 
+ - Victor Felix de Almeida 
+ - Marina da Cruz Bento Bulhosa 
+ - Rafael de Azevedo Silva 
+ - Tamara Dias de Carvalho 
+ - Ruan de Almeida Costa 
+ - Luan Pereira Cunha 
+ - Rodolpho Vianna Santoro 
+ - Gabriel dos Santos Ribeiro 
+ - Fernando Soares Stefanino 
+ - Arielle Cardoso Costa da Silva 
+ - Kassiano Vieira Malaquias 
+ - Alessandro Sampaio da Silva 
+ - Juliana Dias de Paula 
+ - Otavio de Souza Braga 
+ - Matheus Monclai das Chagas Pizziolo
+ - Amanda Bretas Gonçalves 
+ - Marianna da Fraga Fredenhagem Altomare Carreiro 
+ - Jessica Beatriz de Carvalho Fernandes 
+ - Syro Almeida Gondim 
 
 # Retrospectiva
 ## =(
